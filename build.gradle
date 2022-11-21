@@ -50,10 +50,6 @@ allprojects {
             xml.enabled false
         }
     }
-
-    jar {
-        enabled = true
-    }
 }
 
 subprojects {
